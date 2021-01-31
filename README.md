@@ -1,3 +1,10 @@
+<!-- This project is created entirely for scratching and learning puropses using React tutorials.
+You can view this code here or clone it to view locally.
+Work is still in progress, but deadline is a deadline.
+
+BELOW WILL BE DEFAULT TEXT FROM REACT CREATION APP: -->
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
